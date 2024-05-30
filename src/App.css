@@ -1,0 +1,12 @@
+h1{
+ text-align: center;
+ color:red;
+}
+.footer{
+  position:fixed;
+  bottom: 0px;
+ background-color: aquamarine;
+ width:100%;
+ color: blueviolet;
+ 
+}
